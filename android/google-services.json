@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33343487566",
+    "firebase_url": "https://floppy-ccdcc.firebaseio.com",
+    "project_id": "floppy-ccdcc",
+    "storage_bucket": "floppy-ccdcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33343487566:android:0f78ee91e213b594d5cd1f",
+        "android_client_info": {
+          "package_name": "com.game.floppy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33343487566-sn42is9j2bs3rmsr2rpoqs266gmk1veg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.game.floppy",
+            "certificate_hash": "c1a3b5ccf854e5a6989d757a0c6eb8ca23d8494d"
+          }
+        },
+        {
+          "client_id": "33343487566-fbgictd0c2hdesb99j66ebkdmdbdltk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQybOGEicgsBTQVk8MBjdFM_Kk0V8r14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33343487566-fbgictd0c2hdesb99j66ebkdmdbdltk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
